@@ -1,6 +1,6 @@
 SF Food Trucks
 ===
-Application URL - <a href = 18.191.222.128>
+Application URL - > [Url](18.191.222.128).
 > San Francisco's finger-licking street food now at your fingertips.
 
 ![img](shot.png)
