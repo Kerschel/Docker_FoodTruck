@@ -51,9 +51,7 @@ def index():
 
 
 
-@app.route('/hello')
-def hello():
-  return "hello world!"
+
 
 @app.route('/debug')
 def test_es():
